@@ -1,0 +1,84 @@
+{
+    "news": [
+        {
+            "category": "Politics",
+            "title": "Biden signs executive order on immigration",
+            "img" : "",
+            "description": "President Biden signed an executive order on Tuesday to create a task force that will reunite migrant families separated at the border under the Trump administration's 'zero tolerance' policy.",
+            "author": "John Doe",
+            "published_date": "2022-02-25"
+        },
+        {
+            "category": "Technology",
+            "title": "Apple releases new MacBook Pro",
+            "img" : "",
+            "description": "Apple unveiled its latest MacBook Pro on Wednesday, featuring a new M2 chip, improved keyboard, and a notch in the display. The laptop is available for pre-order now and will be released next month.",
+            "author": "Jane Smith",
+            "published_date": "2022-02-23"
+        },
+        {
+            "category": "Business",
+            "title": "Tesla stock surges after earnings report",
+            "img" : "",
+            "description": "Tesla's stock price jumped by 10% on Thursday after the company reported better-than-expected earnings for the fourth quarter of 2021. The electric car maker's revenue and net income both beat analysts' estimates.",
+            "author": "Bob Johnson",
+            "published_date": "2022-02-10"
+        },
+        {
+            "category": "Entertainment",
+            "title": "Netflix announces new show from Game of Thrones creators",
+            "img" : "",
+            "description": "Netflix has greenlit a new series from Game of Thrones showrunners David Benioff and D.B. Weiss. The show, called 'The Three-Body Problem,' is based on the Chinese sci-fi novel of the same name.",
+            "author": "Emily Lee",
+            "published_date": "2022-02-18"
+        },
+        {
+            "category": "Sports",
+            "title": "Serena Williams announces retirement",
+            "img" : "",
+            "description": "Tennis superstar Serena Williams announced her retirement on Friday after a storied career that included 23 Grand Slam singles titles. Williams, 40, said she was looking forward to spending more time with her family.",
+            "author": "Mike Brown",
+            "published_date": "2022-02-11"
+        },
+        {
+            "category": "Politics",
+            "title": "Biden signs executive order on immigration",
+            "img" : "",
+            "description": "President Biden signed an executive order on Tuesday to create a task force that will reunite migrant families separated at the border under the Trump administration's 'zero tolerance' policy.",
+            "author": "John Doe",
+            "published_date": "2022-02-25"
+        },
+        {
+            "category": "Technology",
+            "title": "Apple releases new MacBook Pro",
+            "img" : "",
+            "description": "Apple unveiled its latest MacBook Pro on Wednesday, featuring a new M2 chip, improved keyboard, and a notch in the display. The laptop is available for pre-order now and will be released next month.",
+            "author": "Jane Smith",
+            "published_date": "2022-02-23"
+        },
+        {
+            "category": "Business",
+            "title": "Tesla stock surges after earnings report",
+            "img" : "",
+            "description": "Tesla's stock price jumped by 10% on Thursday after the company reported better-than-expected earnings for the fourth quarter of 2021. The electric car maker's revenue and net income both beat analysts' estimates.",
+            "author": "Bob Johnson",
+            "published_date": "2022-02-10"
+        },
+        {
+            "category": "Entertainment",
+            "title": "Netflix announces new show from Game of Thrones creators",
+            "img" : "",
+            "description": "Netflix has greenlit a new series from Game of Thrones showrunners David Benioff and D.B. Weiss. The show, called 'The Three-Body Problem,' is based on the Chinese sci-fi novel of the same name.",
+            "author": "Emily Lee",
+            "published_date": "2022-02-18"
+        },
+        {
+            "category": "Sports",
+            "title": "Serena Williams announces retirement",
+            "img" : "",
+            "description": "Tennis superstar Serena Williams announced her retirement on Friday after a storied career that included 23 Grand Slam singles titles. Williams, 40, said she was looking forward to spending more time with her family.",
+            "author": "Mike Brown",
+            "published_date": "2022-02-11"
+        }
+    ]
+}
