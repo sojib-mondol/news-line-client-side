@@ -1,25 +1,24 @@
-{
-    "news": [
+[
         {
-            "category": "Politics",
+            "category": "International News",
             "title": "Biden signs executive order on immigration",
-            "img" : "",
+            "img" : "https://i.ibb.co/X4kHhkv/img14.jpg",
             "description": "President Biden signed an executive order on Tuesday to create a task force that will reunite migrant families separated at the border under the Trump administration's 'zero tolerance' policy.",
             "author": "John Doe",
             "published_date": "2022-02-25"
         },
         {
-            "category": "Technology",
+            "category": "Entertainment",
             "title": "Apple releases new MacBook Pro",
-            "img" : "",
+            "img" : "https://i.ibb.co/7gq4pB4/img13.jpg",
             "description": "Apple unveiled its latest MacBook Pro on Wednesday, featuring a new M2 chip, improved keyboard, and a notch in the display. The laptop is available for pre-order now and will be released next month.",
             "author": "Jane Smith",
             "published_date": "2022-02-23"
         },
         {
-            "category": "Business",
+            "category": "International News",
             "title": "Tesla stock surges after earnings report",
-            "img" : "",
+            "img" : "https://i.ibb.co/QHT0dDV/img17.jpg",
             "description": "Tesla's stock price jumped by 10% on Thursday after the company reported better-than-expected earnings for the fourth quarter of 2021. The electric car maker's revenue and net income both beat analysts' estimates.",
             "author": "Bob Johnson",
             "published_date": "2022-02-10"
@@ -27,7 +26,7 @@
         {
             "category": "Entertainment",
             "title": "Netflix announces new show from Game of Thrones creators",
-            "img" : "",
+            "img" : "https://i.ibb.co/GpQXDYS/img16.jpg",
             "description": "Netflix has greenlit a new series from Game of Thrones showrunners David Benioff and D.B. Weiss. The show, called 'The Three-Body Problem,' is based on the Chinese sci-fi novel of the same name.",
             "author": "Emily Lee",
             "published_date": "2022-02-18"
@@ -35,31 +34,31 @@
         {
             "category": "Sports",
             "title": "Serena Williams announces retirement",
-            "img" : "",
+            "img" : "https://i.ibb.co/JqMB3wg/img15.jpg",
             "description": "Tennis superstar Serena Williams announced her retirement on Friday after a storied career that included 23 Grand Slam singles titles. Williams, 40, said she was looking forward to spending more time with her family.",
             "author": "Mike Brown",
             "published_date": "2022-02-11"
         },
         {
-            "category": "Politics",
+            "category": "International News",
             "title": "Biden signs executive order on immigration",
-            "img" : "",
+            "img" : "https://i.ibb.co/X4kHhkv/img14.jpg",
             "description": "President Biden signed an executive order on Tuesday to create a task force that will reunite migrant families separated at the border under the Trump administration's 'zero tolerance' policy.",
             "author": "John Doe",
             "published_date": "2022-02-25"
         },
         {
-            "category": "Technology",
+            "category": "Entertainment",
             "title": "Apple releases new MacBook Pro",
-            "img" : "",
+            "img" : "https://i.ibb.co/7gq4pB4/img13.jpg",
             "description": "Apple unveiled its latest MacBook Pro on Wednesday, featuring a new M2 chip, improved keyboard, and a notch in the display. The laptop is available for pre-order now and will be released next month.",
             "author": "Jane Smith",
             "published_date": "2022-02-23"
         },
         {
-            "category": "Business",
+            "category": "International News",
             "title": "Tesla stock surges after earnings report",
-            "img" : "",
+            "img" : "https://i.ibb.co/zbbRsZg/img12.jpg",
             "description": "Tesla's stock price jumped by 10% on Thursday after the company reported better-than-expected earnings for the fourth quarter of 2021. The electric car maker's revenue and net income both beat analysts' estimates.",
             "author": "Bob Johnson",
             "published_date": "2022-02-10"
@@ -67,7 +66,7 @@
         {
             "category": "Entertainment",
             "title": "Netflix announces new show from Game of Thrones creators",
-            "img" : "",
+            "img" : "https://i.ibb.co/BCZSK78/img11.jpg",
             "description": "Netflix has greenlit a new series from Game of Thrones showrunners David Benioff and D.B. Weiss. The show, called 'The Three-Body Problem,' is based on the Chinese sci-fi novel of the same name.",
             "author": "Emily Lee",
             "published_date": "2022-02-18"
@@ -75,51 +74,51 @@
         {
             "category": "Sports",
             "title": "Serena Williams announces retirement",
-            "img" : "",
+            "img" : "https://i.ibb.co/kBftcmL/img10.jpg",
             "description": "Tennis superstar Serena Williams announced her retirement on Friday after a storied career that included 23 Grand Slam singles titles. Williams, 40, said she was looking forward to spending more time with her family.",
             "author": "Mike Brown",
             "published_date": "2022-02-11"
         },
         {
-            "category": "Breaking News",
+            "category": "Regular News",
             "title": "Explosion in Downtown Area",
             "description": "An explosion has occurred in the downtown area, causing significant damage to surrounding buildings. The cause of the explosion is currently unknown, and emergency services are on the scene.",
             "date": "2023-03-01",
             "time": "14:30:00",
-            "img": ""
+            "img": "https://i.ibb.co/BNXDm28/img9.jpg"
             
           },
           {
-            "category": "Breaking News",
+            "category": "Regular News",
             "title": "Plane Crash at International Airport",
             "description": "A passenger plane has crashed at the international airport, resulting in multiple injuries and fatalities. The cause of the crash is currently under investigation, and airport operations have been suspended.",
             "date": "2023-03-01",
             "time": "12:45:00",
-            "img": "National News"
+            "img": "https://i.ibb.co/n6hb7q2/img8.jpg"
           },
           {
-            "category": "Breaking News",
+            "category": "Regular News",
             "title": "Major Earthquake Hits Coastal City",
             "description": "A major earthquake with a magnitude of 7.5 has hit a coastal city, causing widespread damage and power outages. Local authorities have issued a tsunami warning, and residents are advised to evacuate to higher ground.",
             "date": "2023-03-01",
             "time": "06:15:00",
-            "img": "International News"
+            "img": "https://i.ibb.co/HHsDFDq/img7.jpg"
           },
           {
-            "category": "Breaking News",
+            "category": "Regular News",
             "title": "Terrorist Attack on Government Building",
             "description": "A terrorist attack has taken place on a government building, resulting in multiple casualties and injuries. The attackers are believed to be armed and dangerous, and local authorities have issued a city-wide alert.",
             "date": "2023-03-01",
             "time": "10:00:00",
-            "img": "Local News"
+            "img": "https://i.ibb.co/0KLbpjT/img6.jpg"
           },
           {
-            "category": "Breaking News",
+            "category": "Regular News",
             "title": "Major Cyber Attack on Bank",
             "description": "A major cyber attack has been launched on a bank, resulting in a significant loss of data and funds. The bank has assured its customers that their accounts are secure, and authorities are investigating the incident.",
             "date": "2023-03-01",
             "time": "16:00:00",
-            "img": "National News"
+            "img": "https://i.ibb.co/KrKW4pr/img6.jpg"
             
           },
           {
@@ -134,7 +133,7 @@
           {
             "category": "Breaking News",
             "title": "Italian Parliament Approves 26% Crypto-Gains Tax in 2023 Budget",
-            "description": " Italian Prime Minister Giorgia Meloni's 2023 expansionary budget – which was completed in a rush before the end of the year – features 21 billion euros ($22.3 billion) in tax breaks to assist businesses and househoPrime Minister Giorgia Meloni's new bill also includes an incentive for those declaring crypto for tax purposes.Crypto traders in Italy will be subject to a 26% capital-gains tax starting in 2023, according to a new budget that won parliamentary approval on Thursday.lds facing the energy crisis, Reuters reported. In Italy, where crypto remains largely unregulated, the 387-page budget legitimizes crypto assets by defining them as  \"a digital representation of value or rights, which can be transferred and stored electronically, using the technology of distributed ledger or similar technology.\" Italy's (and most recently Portugal's) move to introduce a capital-gains tax on crypto comes ahead of the implementation of the European Union's Markets in Crypto Assets (MiCA) regulation that promises a licensing frameworks and stringent operating requirements for crypto-service providers in the 27-member bloc. The 26% rate applies to gains from crypto trading if they exceed 2,000 euros per tax period. As an incentive for declaring crypto profits,  the new bill also sets a \"substitute income tax\" for investors at 14% of the value of the assets held as of Jan. 1, 2023, instead of the cost at the time of purchase. According to the new rules, losses from crypto investments can be deducted from profits and be carried forward. Investors, however, may require some additional guidance on what qualifies as a taxable event as the document also says,  \"the exchange between crypto assets having same characteristics and functions,\" doesn't constitute a \"fiscal case.\"",
+            "description": " Italian Prime Minister Giorgia Meloni's 2023 expansionary budget - which was completed in a rush before the end of the year - features 21 billion euros ($22.3 billion) in tax breaks to assist businesses and househoPrime Minister Giorgia Meloni's new bill also includes an incentive for those declaring crypto for tax purposes.Crypto traders in Italy will be subject to a 26% capital-gains tax starting in 2023, according to a new budget that won parliamentary approval on Thursday.lds facing the energy crisis, Reuters reported. In Italy, where crypto remains largely unregulated, the 387-page budget legitimizes crypto assets by defining them as  \"a digital representation of value or rights, which can be transferred and stored electronically, using the technology of distributed ledger or similar technology.\" Italy's (and most recently Portugal's) move to introduce a capital-gains tax on crypto comes ahead of the implementation of the European Union's Markets in Crypto Assets (MiCA) regulation that promises a licensing frameworks and stringent operating requirements for crypto-service providers in the 27-member bloc. The 26% rate applies to gains from crypto trading if they exceed 2,000 euros per tax period. As an incentive for declaring crypto profits,  the new bill also sets a \"substitute income tax\" for investors at 14% of the value of the assets held as of Jan. 1, 2023, instead of the cost at the time of purchase. According to the new rules, losses from crypto investments can be deducted from profits and be carried forward. Investors, however, may require some additional guidance on what qualifies as a taxable event as the document also says,  \"the exchange between crypto assets having same characteristics and functions,\" doesn't constitute a \"fiscal case.\"",
             "date": "2023-03-01",
             "time": "16:00:00",
             "img": "https://i.ibb.co/gW6j27n/omg2.png"
@@ -143,7 +142,7 @@
           {
             "category": "Breaking News",
             "title": "Buys More Bitcoin — Company's Crypto Holdings Grow to 132,500 BTC",
-            "description": " Microstrategy is now holding approximately 132,500 bitcoin following its most recent purchases. This year, the world’s largest cryptocurrency has emerged as “the institutional-grade digital asset,” said Microstrategy founder Michael Saylor. Microstrategy Acquires More Bitcoin Nasdaq-listed Microstrategy Inc. announced Wednesday that it has purchased more bitcoin for its corporate treasury. Michael Saylor, the company’s founder and executive chairman, tweeted Wednesday: Microstrategy has increased its bitcoin holdings by ~2,500 BTC. As of 12/27/22 Microstrategy holds  ~132,500 bitcoin acquired for ~$4.03 billion at an average price of ~$30,397 per bitcoin. In its filing with the U.S. Securities and Exchange Commission (SEC), Microstrategy clarified that the 2,500 coins were acquired between Nov. 1 and Dec. 24 by its wholly owned subsidiary Macrostrategy. The subsidiary bought approximately 2,395 BTC at an average price of $17,871 per coin between Nov. 1 and Dec. 21. It then sold about 704 BTC at $16,776 per coin on Dec. 22. Macrostrategy then bought about 810 more BTC at $16,845 per coin on Dec. 24. At the time of writing, bitcoin is trading at $16,656.80. The bitcoin sale in December marked the first time Microstrategy sold its bitcoin since it began accumulating the crypto for its corporate treasury in 2020. The company cited tax reasons for selling BTC. “Microstrategy plans to carry back the capital losses resulting from this transaction against previous capital gains, to the extent such carrybacks are available under the federal income tax laws currently in effect, which may generate a tax benefit,” the SEC filing describes. Saylor said in an interview last week: The most positive thing of the year is the emergence of bitcoin as the institutional grade digital asset and the clarity that … There is one crypto asset that's a digital commodity … Bitcoin is that commodity. The executive noted that both the chairman of the SEC and the chair of the Commodity Futures Trading Commission (CFTC) have confirmed that bitcoin is a commodity. Saylor previously explained that Microstrategy is investing in BTC “for the long term.” He added: “Our strategy is to buy bitcoin and hold the bitcoin, so there's no price target … I expect bitcoin is going to go into the millions. So, we're very patient. We think it's the future of money.”",
+            "description": " Microstrategy is now holding approximately 132,500 bitcoin following its most recent purchases. This year, the world's largest cryptocurrency has emerged as “the institutional-grade digital asset,” said Microstrategy founder Michael Saylor. Microstrategy Acquires More Bitcoin Nasdaq-listed Microstrategy Inc. announced Wednesday that it has purchased more bitcoin for its corporate treasury. Michael Saylor, the company's founder and executive chairman, tweeted Wednesday: Microstrategy has increased its bitcoin holdings by ~2,500 BTC. As of 12/27/22 Microstrategy holds  ~132,500 bitcoin acquired for ~$4.03 billion at an average price of ~$30,397 per bitcoin. In its filing with the U.S. Securities and Exchange Commission (SEC), Microstrategy clarified that the 2,500 coins were acquired between Nov. 1 and Dec. 24 by its wholly owned subsidiary Macrostrategy. The subsidiary bought approximately 2,395 BTC at an average price of $17,871 per coin between Nov. 1 and Dec. 21. It then sold about 704 BTC at $16,776 per coin on Dec. 22. Macrostrategy then bought about 810 more BTC at $16,845 per coin on Dec. 24. At the time of writing, bitcoin is trading at $16,656.80. The bitcoin sale in December marked the first time Microstrategy sold its bitcoin since it began accumulating the crypto for its corporate treasury in 2020. The company cited tax reasons for selling BTC. “Microstrategy plans to carry back the capital losses resulting from this transaction against previous capital gains, to the extent such carrybacks are available under the federal income tax laws currently in effect, which may generate a tax benefit,” the SEC filing describes. Saylor said in an interview last week: The most positive thing of the year is the emergence of bitcoin as the institutional grade digital asset and the clarity that … There is one crypto asset that's a digital commodity … Bitcoin is that commodity. The executive noted that both the chairman of the SEC and the chair of the Commodity Futures Trading Commission (CFTC) have confirmed that bitcoin is a commodity. Saylor previously explained that Microstrategy is investing in BTC “for the long term.” He added: “Our strategy is to buy bitcoin and hold the bitcoin, so there's no price target … I expect bitcoin is going to go into the millions. So, we're very patient. We think it's the future of money.”",
             "date": "2023-03-01",
             "time": "16:00:00",
             "img": "https://i.ibb.co/P1RLS95/img3.png"
@@ -167,10 +166,4 @@
             "img": "https://i.ibb.co/1LS6wQt/img5.png"
             
           }
-          
-
-          
-
-          
-    ]
-}
+]
