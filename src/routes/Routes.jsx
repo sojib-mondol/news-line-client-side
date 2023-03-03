@@ -6,10 +6,8 @@ import Entertainment from "../pages/entertainment/Entertainment";
 import Internationalnews from "../pages/internationalnews/Internationalnews";
 import Regularnews from "../pages/regularnews/Regularnews";
 import Sports from "../pages/sports/Sports";
-
 const { createBrowserRouter } = require("react-router-dom");
 const { default: Blog } = require("../components/blog/Blog");
-const { default: Home } = require("../components/home/Home");
 const { default: Main } = require("../layout/Main");
 
 export const router = createBrowserRouter([
@@ -21,41 +19,43 @@ export const router = createBrowserRouter([
             {
                 path: '/',
                 element:<Breakingnews></Breakingnews>
+
             },
             {
-                path: 'blog',
+                path: '/blog',
                 element:<Blog></Blog>
             },
             {
-                path: 'breaking-news',
+                path: '/breaking-news',
                 element:<Breakingnews></Breakingnews>
             },
             {
-                path: 'regular-news',
+                path: '/regular-news',
                 element:<Regularnews></Regularnews>
             },
             {
-                path: 'international-news',
+                path: '/international-news', // <Link to='/kjdlsjk'> 
                 element:<Internationalnews></Internationalnews>
+                
             },
             {
-                path: 'sports',
+                path: '/sports',
                 element:<Sports></Sports>
             },
             {
-                path: 'entertainment',
+                path: '/entertainment',
                 element:<Entertainment></Entertainment>
             },
             {
-                path: 'culture',
+                path: '/culture',
                 element:<Culture></Culture>
             },
             {
-                path: 'arts',
+                path: '/arts',
                 element:<Arts></Arts>
             },
             {
-                path: 'all-news',
+                path: '/all-news',
                 element:<AllNews></AllNews>
             },
         ]
