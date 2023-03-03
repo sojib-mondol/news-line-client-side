@@ -1,4 +1,5 @@
 import Breakingnews from "../components/breakngnews/Breakingnews";
+import NotFoundPage from "../components/notFoundPage/NotFoundPage";
 import AllNews from "../pages/allNews/AllNews";
 import Arts from "../pages/arts/Arts";
 import Culture from "../pages/culture/Culture";
@@ -15,6 +16,7 @@ export const router = createBrowserRouter([
     {
         path: '/',
         element:<Main></Main>,
+        errorElement: <NotFoundPage></NotFoundPage>,
         children:[
             {
                 path: '/',

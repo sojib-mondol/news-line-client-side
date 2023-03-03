@@ -1,9 +1,19 @@
+import { useQuery } from '@tanstack/react-query';
 import React from 'react';
+import NewsCard from '../../components/shared/newsCard/NewsCard';
 
 const Culture = () => {
+
+    
     return (
         <div>
-            <h2>This is culter section ... news</h2>
+            
+            <div className='m-5'>
+                <h6 class='bg-zinc-50 shadow font-medium p-5 rounded-lg'>No news found.</h6>
+            </div>
+            
+            
+
         </div>
     );
 };

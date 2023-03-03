@@ -15,7 +15,7 @@ const Breakingnews = () => {
     });
 
     
-    console.log("news: ", news);
+   
 
     return (
         <div>
