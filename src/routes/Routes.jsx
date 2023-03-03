@@ -1,5 +1,6 @@
 import Breakingnews from "../components/breakngnews/Breakingnews";
 import NotFoundPage from "../components/notFoundPage/NotFoundPage";
+import DetailsPage from "../components/shared/detailsPage/DetailsPage";
 import AllNews from "../pages/allNews/AllNews";
 import Arts from "../pages/arts/Arts";
 import Culture from "../pages/culture/Culture";
@@ -60,6 +61,11 @@ export const router = createBrowserRouter([
                 path: '/all-news',
                 element:<AllNews></AllNews>
             },
+            {
+                path: `/details/:id`,
+                element: <DetailsPage></DetailsPage>,
+                loader: ({params}) => fetch(`http://localhost:5000/details/${params.id}`)
+            }
         ]
     }
 ])

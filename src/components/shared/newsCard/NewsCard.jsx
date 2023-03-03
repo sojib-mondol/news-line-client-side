@@ -30,7 +30,7 @@ const NewsCard = ({news}) => {
                     {description.slice(0,200)+" . . ."} 
                 </p>
 
-                <Link to='' class="inline-block mt-2 text-blue-500 underline hover:text-blue-400">Read more</Link>
+                <Link to={`/details/${_id}`} class="inline-block mt-2 text-blue-500 underline hover:text-blue-400">Read more</Link>
 
                 <div class="flex items-center mt-6">
                     

@@ -9,7 +9,7 @@ function Navbar() {
   };
 
   return (
-    <nav className='bg-white sticky top-0'>
+    <nav className='bg-white sticky top-0 z-20'>
       <div className='max-w-7xl mx-auto px-4 sm:px-6 lg:px-8'>
         <div className='flex items-center justify-between h-16'>
           <div className='flex-shrink-0'>
@@ -30,10 +30,10 @@ function Navbar() {
           </div>
           <div className='hidden md:block'>
             <Link
-              to='/join'
+              to='/'
               className='inline-flex items-center px-4 py-2 bg-sky-400 border border-transparent rounded-md font-semibold text-white hover:bg-sky-600'
             >
-              Join
+              Subscribe
             </Link>
           </div>
           <div className='-mr-2 flex md:hidden'>
@@ -84,10 +84,10 @@ function Navbar() {
         </div>
         <div className='px-5 pt-2 pb-3'>
           <Link
-            to='/join'
+            to='/'
             className=' px-3 py-2 rounded-md text-base font-medium text-white bg-sky-400 hover:bg-sky-600'
           >
-            Join
+            Subscribe
           </Link>
         </div>
       </div>
