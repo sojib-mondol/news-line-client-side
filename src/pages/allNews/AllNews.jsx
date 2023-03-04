@@ -7,7 +7,7 @@ const AllNews = () => {
     const {data: news = [], isLoading, refetch} = useQuery({
         queryKey: ['news'],
         queryFn: async() =>{
-            const res = await fetch('http://localhost:5000/allnews');
+            const res = await fetch('https://newsline-server-side.vercel.app/allnews');
             const data = await res.json();
             return data;
         }

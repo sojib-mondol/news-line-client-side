@@ -6,8 +6,7 @@ const DetailsPage = () => {
 
     const detailsNews = useLoaderData();
     const {author, published_date, date, title, description, img} = detailsNews;
-   // console.log("ddddddddddddddddddddddddddddddd",detailsNews);
-
+  
 
     return (
     <section className="bg-white z-0">

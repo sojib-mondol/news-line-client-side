@@ -64,7 +64,7 @@ export const router = createBrowserRouter([
             {
                 path: `/details/:id`,
                 element: <DetailsPage></DetailsPage>,
-                loader: ({params}) => fetch(`http://localhost:5000/details/${params.id}`)
+                loader: ({params}) => fetch(`https://newsline-server-side.vercel.app/details/${params.id}`)
             }
         ]
     }

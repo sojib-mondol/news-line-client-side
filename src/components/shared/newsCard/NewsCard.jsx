@@ -4,11 +4,10 @@ import { Link } from 'react-router-dom';
 const NewsCard = ({news}) => {
     
 
-    const {title, img, category, author, date, published_date, description, _id} = news;
-    //const shortDes = description.slice(0,200);
-    //const d = new Date();
-
-    console.log(news)
+    const {title, img, author, date, published_date, description, _id} = news;
+    
+    
+ 
 
 
     return (

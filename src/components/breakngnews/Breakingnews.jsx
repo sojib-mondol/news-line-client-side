@@ -1,20 +1,25 @@
 import { useQuery } from '@tanstack/react-query';
-import React, { useEffect, useState } from 'react';
+import React from 'react';
+import Loading from '../shared/loading/Loading';
 import NewsCard from '../shared/newsCard/NewsCard';
 
 const Breakingnews = () => {
 
 
-    const {data: news = [], isLoading, refetch} = useQuery({
+    const {data: news = [], isLoading} = useQuery({
         queryKey: ['news'],
         queryFn: async() =>{
-            const res = await fetch('http://localhost:5000/breaking-news');
+            const res = await fetch('https://newsline-server-side.vercel.app/breaking-news');
             const data = await res.json();
             return data;
         }
     });
 
     
+
+    if(isLoading) {
+        return <Loading></Loading>
+    }
    
 
     return (
@@ -28,6 +33,7 @@ const Breakingnews = () => {
                     news && news?.map((n, i) => <NewsCard 
                     news = {n} 
                     key = {i}
+                   
                     ></NewsCard>)
 
                 }
