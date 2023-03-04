@@ -1,3 +1,3 @@
 Title: Newsline
-live link: 
+live link: https://newsline-app.netlify.app/
 About: This is full-stack projecs. This is news portal website is a cutting-edge online platform built with the latest web technologies, including ReactJS, MongoDB, ExpressJS, NodeJS, and Tailwind CSS. With a robust database of news articles covering a wide range of topics, such as current events, politics, sports, entertainment, and more, our website delivers real-time updates and personalized news feeds to keep you informed and engaged. Our team of expert journalists and editors ensures that our content is always up-to-date, accurate, and insightful. We've designed our website to be user-friendly and visually appealing, with a sleek and modern design that incorporates Tailwind CSS. With our website, you can access the latest news and events from around the world with ease and convenience.

@@ -23,7 +23,7 @@ const Breakingnews = () => {
    
 
     return (
-        <div>
+        <div >
             
                 <div className='m-5'>
                     <h6 class='bg-zinc-50 shadow font-medium p-5 rounded-lg'>{news.length} news found</h6>

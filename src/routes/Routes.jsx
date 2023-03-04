@@ -1,6 +1,7 @@
 import Breakingnews from "../components/breakngnews/Breakingnews";
 import NotFoundPage from "../components/notFoundPage/NotFoundPage";
 import DetailsPage from "../components/shared/detailsPage/DetailsPage";
+import About from "../pages/about/About";
 import AllNews from "../pages/allNews/AllNews";
 import Arts from "../pages/arts/Arts";
 import Culture from "../pages/culture/Culture";
@@ -27,6 +28,10 @@ export const router = createBrowserRouter([
             {
                 path: '/blog',
                 element:<Blog></Blog>
+            },
+            {
+                path: '/about',
+                element:<About></About>
             },
             {
                 path: '/breaking-news',
